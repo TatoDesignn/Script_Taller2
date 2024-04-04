@@ -1,0 +1,15 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\bin\Debug\net8.0\DelegadoParametros.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\bin\Debug\net8.0\DelegadoParametros.deps.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\bin\Debug\net8.0\DelegadoParametros.runtimeconfig.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\bin\Debug\net8.0\DelegadoParametros.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\bin\Debug\net8.0\DelegadoParametros.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.AssemblyInfoInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.AssemblyInfo.cs
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.sourcelink.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\refint\DelegadoParametros.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\DelegadoParametros.genruntimeconfig.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\DelegadoParametros\obj\Debug\net8.0\ref\DelegadoParametros.dll
