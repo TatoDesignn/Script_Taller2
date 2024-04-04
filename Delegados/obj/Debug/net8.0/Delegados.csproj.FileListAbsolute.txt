@@ -1,0 +1,14 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\bin\Debug\net8.0\Delegados.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\bin\Debug\net8.0\Delegados.deps.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\bin\Debug\net8.0\Delegados.runtimeconfig.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\bin\Debug\net8.0\Delegados.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\bin\Debug\net8.0\Delegados.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.AssemblyInfoInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.AssemblyInfo.cs
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\refint\Delegados.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.genruntimeconfig.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\ref\Delegados.dll
