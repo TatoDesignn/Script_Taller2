@@ -12,3 +12,4 @@ D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.pdb
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.genruntimeconfig.cache
 D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\ref\Delegados.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\Delegados\obj\Debug\net8.0\Delegados.sourcelink.json

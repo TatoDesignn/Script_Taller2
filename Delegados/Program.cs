@@ -1,4 +1,5 @@
 ﻿public delegate string HorariosClase();
+public delegate void Saludo();
 
 public class Clases
 {
@@ -35,19 +36,16 @@ class Program
         Clases horario = new Clases();
 
         HorariosClase clases = horario.Lunes;
-        Console.WriteLine(clases());
 
-        clases = horario.Martes;
-        Console.WriteLine(clases());
+        clases += horario.Martes;
+        clases += horario.Miercoles;
+        clases += horario.Jueves;
+        clases += horario.Viernes;
 
-        clases = horario.Miercoles;
-        Console.WriteLine(clases());
-
-        clases = horario.Jueves;
-        Console.WriteLine(clases());
-
-        clases = horario.Viernes;
-        Console.WriteLine(clases());
+        foreach (HorariosClase horarioClase in clases.GetInvocationList())
+        {
+            Console.WriteLine(horarioClase());
+        }
     }
 }
 

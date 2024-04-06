@@ -33,15 +33,13 @@ class Program
         Calculadora calc = new Calculadora();
 
         CalculadoraDel resultado = calc.Sumar;
-        Console.WriteLine(resultado(1, 1));
+        resultado += calc.Restar;
+        resultado += calc.Multiplicar;
+        resultado += calc.Dividir;
 
-        resultado = calc.Restar;
-        Console.WriteLine(resultado(2, 1));
-
-        resultado = calc.Multiplicar;
-        Console.WriteLine(resultado(2, 2)); 
-
-        resultado = calc.Dividir;
-        Console.WriteLine(resultado(4, 2));
+        foreach(CalculadoraDel calculadora in resultado.GetInvocationList())
+        {
+            Console.WriteLine(calculadora(4,2));
+        }
     }
 }
