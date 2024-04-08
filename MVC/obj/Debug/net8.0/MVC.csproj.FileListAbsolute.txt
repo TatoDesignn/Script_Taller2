@@ -1,0 +1,15 @@
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\bin\Debug\net8.0\MVC.exe
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\bin\Debug\net8.0\MVC.deps.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\bin\Debug\net8.0\MVC.runtimeconfig.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\bin\Debug\net8.0\MVC.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\bin\Debug\net8.0\MVC.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.AssemblyInfoInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.AssemblyInfo.cs
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.csproj.CoreCompileInputs.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.sourcelink.json
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\refint\MVC.dll
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.pdb
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
+D:\Universidad\7. SEPTIMO SEMESTRE\Script\Script_Taller2\MVC\obj\Debug\net8.0\ref\MVC.dll
