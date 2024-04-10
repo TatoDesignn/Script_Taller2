@@ -8,6 +8,8 @@
 </ul>
 <h2>¿Que es una firma?</h2>
 <p>Una firma hace referencia al nombre, tipo y parámetros de un método.</p>
+<h2>¿Qué son los eventos?</h2>
+<p>Un evento en C# es una notificación que una clase puede enviar a otras clases. El objeto que genera el evento se conoce como el emisor, mientras que los objetos que desean ser notificados se denominan suscriptores.</p>
 <h2>Mas Información 💾</h2>
 <ul>
   <li><a href="https://www.canva.com/design/DAGBaj6dyyg/ZC2VMizYfQeTBNiR-3m7VA/edit?utm_content=DAGBaj6dyyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">link a presentacion.</a></li>
