@@ -28,6 +28,11 @@
 <p><strong>Modelo:</strong>  Representa la estructura de datos y la lógica de negocio de la aplicación.</p>
 <p><strong>Vista:</strong> Es responsable de la presentación de datos al usuario y de la interacción con él.</p>
 <p><strong>Controlador:</strong> Actúa como un intermediario entre el modelo y la vista.</p>
+<h2>Keep it simple stupid (K.I.S.S)</h2>
+<p>Es un principio de diseño que aboga por mantener las cosas simples y evitar la complejidad innecesaria</p>
+<p><strong>Simplicidad:</strong> La simplicidad implica eliminar cualquier elemento innecesario o complicado que no aporte valor al diseño o a la solución del problema. </p>
+<p><strong>Claridad:</strong> La claridad es fundamental en el diseño de software.</p>
+<p><strong>Mantenibilidad:</strong> La simplicidad facilita la mantenibilidad del código.</p>
 <h2>Mas Información 💾</h2>
 <ul>
   <li><a href="https://www.canva.com/design/DAGBaj6dyyg/ZC2VMizYfQeTBNiR-3m7VA/edit?utm_content=DAGBaj6dyyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">link a presentacion.</a></li>
