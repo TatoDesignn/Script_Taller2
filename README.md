@@ -33,6 +33,14 @@
 <p><strong>Simplicidad:</strong> La simplicidad implica eliminar cualquier elemento innecesario o complicado que no aporte valor al diseño o a la solución del problema. </p>
 <p><strong>Claridad:</strong> La claridad es fundamental en el diseño de software.</p>
 <p><strong>Mantenibilidad:</strong> La simplicidad facilita la mantenibilidad del código.</p>
+<h2>¿Cuál es el ciclo de vida de un script?</h2>
+<p>El ciclo de vida de un script en Unity está vinculado a si el GameObject al que está adjunto está activo o no en la jerarquía de escena. En caso de que lo este, está determinado por los métodos específicos que Unity llama automáticamente en ciertos momentos durante la ejecución del juego.</p>
+<p>Awake(): Este método se llama cuando se inicializa el script.</p>
+<p>Start(): Se llama después de Awake(), una vez que todos los objetos se han inicializado</p>
+<p>Update(): Se llama en cada frame del juego.</p>
+<p>OnEnable(): Se llama cuando el objeto se activa</p>
+<p>OnDisable(): Se llama cuando el objeto se desactiva.</p>
+<p>OnDestroy(): Se llama justo antes de que el objeto sea destruido.</p>
 <h2>Mas Información 💾</h2>
 <ul>
   <li><a href="https://www.canva.com/design/DAGBaj6dyyg/ZC2VMizYfQeTBNiR-3m7VA/edit?utm_content=DAGBaj6dyyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">link a presentacion.</a></li>
