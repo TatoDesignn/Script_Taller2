@@ -23,6 +23,11 @@
   <li>Ocultamiento de dependencias: El uso excesivo de Singletons puede ocultar las dependencias reales de una clase, lo que puede dificultar la comprensión de la estructura y el flujo de la aplicación.</li>
   <li>Acoplamiento fuerte: El uso excesivo de Singletons puede llevar a un acoplamiento fuerte entre clases, lo que puede dificultar la modificación y prueba de dichas clases.</li>
 </ul>
+<h2>Modelo-Vista-Controlador (MVC)</h2>
+<p>Es un patrón arquitectónico ampliamente utilizado en el desarrollo de aplicaciones de software</p>
+<p><strong>Modelo:</strong>  Representa la estructura de datos y la lógica de negocio de la aplicación.</p>
+<p><strong>Vista:</strong> Es responsable de la presentación de datos al usuario y de la interacción con él.</p>
+<p><strong>Controlador:</strong> Actúa como un intermediario entre el modelo y la vista.</p>
 <h2>Mas Información 💾</h2>
 <ul>
   <li><a href="https://www.canva.com/design/DAGBaj6dyyg/ZC2VMizYfQeTBNiR-3m7VA/edit?utm_content=DAGBaj6dyyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">link a presentacion.</a></li>
